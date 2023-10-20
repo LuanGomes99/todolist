@@ -1,6 +1,6 @@
 # Lista de Tarefas - Backend
 
-Este é um projeto de back-end em Java usando o Spring Boot para criar uma aplicação de lista de tarefas. A aplicação permite que os usuários criem, atualizem,
+Este é um projeto de back-end em Java usando o Spring Boot, realizado no **Curso de Java da Rocketseat** para criar uma aplicação de lista de tarefas. A aplicação permite que os usuários criem, atualizem,
 e visualizem suas tarefas. Além disso, há autenticação de usuário para garantir que apenas usuários autenticados possam acessar suas tarefas.
 
 <br>
